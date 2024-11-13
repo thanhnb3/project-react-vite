@@ -15,7 +15,7 @@ const TodoData = (props) => {
     // const data = props.data;
     // CÁCH CODE 3 (KHÔNG NÊN DÙNG VỚI NGƯỜI MỚI)
 
-    console.log(">>> check props: ", props)
+    // console.log(">>> check props: ", props)
   return (
     <div className="todo-data">
         <div>My name is {name} </div>
